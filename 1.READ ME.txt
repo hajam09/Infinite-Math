@@ -1,0 +1,1 @@
+To execute the program open up "Infinite Math" (python file) also icon is placed in this folder "favicon"
